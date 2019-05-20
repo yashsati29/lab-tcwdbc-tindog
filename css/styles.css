@@ -148,3 +148,8 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* Footer Section */
+.social-icon {
+  margin: 20px 10px;
+}
